@@ -1,6 +1,6 @@
 {
 	"name": "obsidian-abap-syntax-highlight",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Adds ABAP syntax highlighting to fenced abap code blocks in Obsidian Reading view and while editing.",
 	"main": "main.js",
 	"type": "module",

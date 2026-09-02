@@ -1,7 +1,7 @@
 {
 	"id": "abap-syntax-highlight",
 	"name": "ABAP Syntax Highlight",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "1.0.0",
 	"description": "Adds ABAP syntax highlighting to fenced abap code blocks in Reading view and while editing.",
 	"author": "Laurin Sorgend",
