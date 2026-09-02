@@ -13,6 +13,7 @@ export default defineConfig(
 		'package.json',
 		'package-lock.json',
 		'tsconfig.json',
+		'sapse.adt-vscode-1.1.2-win32-x64',
 	]),
 	{
 		languageOptions: {

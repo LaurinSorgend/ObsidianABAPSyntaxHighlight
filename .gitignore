@@ -18,5 +18,8 @@ main.js
 # obsidian
 data.json
 
+# Reference-only extracted VSCode extension, not part of the plugin
+sapse.adt-vscode-1.1.2-win32-x64
+
 # Exclude macOS Finder (System Explorer) View States
 .DS_Store
